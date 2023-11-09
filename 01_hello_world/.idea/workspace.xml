@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cfe129c1-4b21-4944-a129-f9baf20f98d7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +62,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "feature/#5-02-scheduling-task",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/Flzomb/IdeaProjects/spring_climber/01_hello_world",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -83,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1699407417405</updated>
       <workItem from="1699407418489" duration="1868000" />
-      <workItem from="1699432004839" duration="358000" />
+      <workItem from="1699432004839" duration="1149000" />
     </task>
     <servers />
   </component>
